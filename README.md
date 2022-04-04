@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi I'm Orly, a Front-End / Full-Stack developer 👋
 
-<!--
-**ateliereven/ateliereven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 🔭 I’m currently working on my first npm package - writing it in Typescript, implemented with React.js, ESbuild, Node.js and Express
+ 
+ 🌱 I’m also learning some Nest.js, React Native and experimenting with Firebase
+ 
+ 👯 I’m looking to collaborate on an open source project I can contribute to
+ 
+ ⚡ HTML, CSS, JavaScript, Typescript, React.js & hooks ,Redux, Node.js, Express, MongoDB, Mongoose, REST API (CRUD), Sass, Material UI, jQuery
+ 
+ 📫 How to reach me: via [LinkedIn](https://www.linkedin.com/in/orly-even)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
