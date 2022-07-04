@@ -1,8 +1,8 @@
 ### Hi I'm Orly, a Front-End / Full-Stack developer 👋
 
- 🔭 I’m currently working on my first npm package - writing it in Typescript, implemented with React.js, ESbuild, Node.js and Express
+ 🔭 I’ve recently published my first npm package - written in Typescript and implemented with React.js, ESbuild, Node.js and Express
  
- 🌱 I’m also learning some Nest.js, React Native and experimenting with Firebase
+ 🌱 I’m also learning some microservices architecture, Next JS, Docker and Kubernetes, and experimenting with Firebase
  
  👯 I’m looking to collaborate on an open source project I can contribute to
  
