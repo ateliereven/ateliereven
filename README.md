@@ -1,4 +1,6 @@
 ### Hi I'm Orly, a Front-End / Full-Stack developer 👋
+ 
+ 🔭 I'm currently developing a progressive web for a non-profit initiative, as a volunteer @ [Junex](https://junex.io)
 
  🔭 I’ve recently published my first npm package - written in Typescript and implemented with React.js, ESbuild, Node.js and Express
  
