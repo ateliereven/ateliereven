@@ -1,12 +1,12 @@
 ### Hi I'm Orly, a Front-End / Full-Stack developer 👋
 
- 🔭 I'm a full-stack developer @ [Taytan Tech](https://github.com/Taytan-Tech)
+ 🔭 My current position is a full-stack developer @ [Taytan Tech](https://github.com/Taytan-Tech)
   
  🌱 I’m also learning some microservices architecture, Next JS, Docker and Kubernetes
  
  🔭 Last year I contributed to [this progressive web app](https://github.com/Mityaalim-App) for a non-profit initiative, as a volunteer @ [Junex](https://junex.io)
 
- 🔭 I’ve also published my very first npm package - written in Typescript and implemented with React.js, ESbuild, Node.js and Express
+ 🔭 I’ve pinned some older personal projects I worked on during my studies (including my very first npm package - written in Typescript and implemented with React.js, ESbuild, Node.js and Express)
 
  👯 I’m always looking to collaborate on an open-source project I can contribute to
  
